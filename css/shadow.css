@@ -1,0 +1,23 @@
+.article1{
+    
+    background-color: rgb(255, 155, 152);
+    width: 500px;
+   margin: 80px;
+   padding: 10px;
+   text-align: center;
+   box-shadow:20px 20px 40px rgb(234, 237, 32) ;
+
+}
+#header{
+   background-color: aqua;
+   background-image: url(images/sky.jpg);
+   width: auto;
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+#header h1{
+    text-align: center;
+
+}
